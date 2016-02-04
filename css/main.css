@@ -1,0 +1,32 @@
+html {
+  background-color: #c9b5ae;
+  font-family: 'PT Serif', serif;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  color:#793284;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#b42885;
+  text-decoration:none;
+}
+
+h1,h2,{
+font-family: 'PT Sans', sans-serif;
+}
+
+.bold {
+  font-weight: bold ;
+}
+
+ol > a {
+  list-style-type:none;
+}
+
+font-family: 'PT Serif', serif;
