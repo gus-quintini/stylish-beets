@@ -25,8 +25,23 @@ font-family: 'PT Sans', sans-serif;
   font-weight:bold;
 }
 
+.italic{
+font-weight:italic;  
+}
+
 .top {
   list-style-type:none;
 }
 
-font-family: 'PT Serif', serif;
+aside > blockquote{
+  font-size:1.5rem;
+  font-style::italic;
+}
+
+ol ,li {
+  list-style-type: lower-greek;
+}
+
+ul > li {
+  list-style-type: circle;
+}
