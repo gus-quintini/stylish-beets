@@ -8,12 +8,12 @@ img {
 }
 
 a {
-  color:#793284;
+  color: #793284;
   text-decoration:none;
 }
 
 a:hover {
-  color:#b42885;
+  color: #b42885;
   text-decoration:none;
 }
 
@@ -22,10 +22,10 @@ font-family: 'PT Sans', sans-serif;
 }
 
 .bold {
-  font-weight: bold ;
+  font-weight:bold;
 }
 
-ol > a {
+.top {
   list-style-type:none;
 }
 
